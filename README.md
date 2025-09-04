@@ -12,10 +12,3 @@ O objetivo é praticar conceitos fundamentais da linguagem e da resolução de p
 - `potenciaRecursiva.py` → Exemplo de **recursividade**, calculando potência de números.  
 
 ---
-
-## 🚀 Como executar
-
-1. Verifique se o Python está instalado:
-
-   ```bash
-   python --version
