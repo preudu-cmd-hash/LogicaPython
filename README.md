@@ -4,7 +4,7 @@ Este repositório contém diversos exercícios de lógica de programação imple
 
 ## Estrutura do Repositório
 
-* `10numeros.py` - Programa que solicita 10 números ao usuário e encontra quantas vezes um número solicitado é encontrado no array.
+* `10numeros.py` - Programa que solicita 10 números ao usuário, encontra quantas vezes um número solicitado é encontrado no array e diz quais são suas posições no array.
 * `arrayInvertido.py` - Inverte os elementos de um array fornecido pelo usuário.
 * `imcGenero.py` - Calcula o IMC considerando o gênero do usuário.
 * `maiorEPosicao.py` - Identifica o maior número em uma lista e sua posição.
