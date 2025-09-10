@@ -4,7 +4,7 @@ programa deve calcular e exibir a soma dos elementos da diagonal principal."""
 numeros = []
 
 for i in range(0, 9):
-    n = int(input(f"Digite o {i + 1}º número: "))
+    n = float(input(f"Digite o {i + 1}º número: "))
     numeros.append(n)
 
 soma = numeros[0]+numeros[4]+numeros[8]
