@@ -12,6 +12,11 @@ Este repositório contém diversos exercícios de lógica de programação imple
 * `mediasArray.py` - Calcula médias de elementos em arrays.
 * `potenciaRecursiva.py` - Calcula potência de um número usando recursão.
 * `somaArray.py` - Soma todos os elementos de um array fornecido.
+* `exibcaoNumeros.py` - Mesma coisa do arquivo 10numeros.py.
+* `arrayTabela.py` - O usuário insere números no array e o programa organiza o array em tabela e exibe a tabela.
+* `arrayIdentidade.py` - Um array identidade onde recebe valor 1 em sua "diagonal" principal e 0 no resto.
+* `somaDiagonal.py` - Soma os elementos "diagonais" de um array.
+* `somaArrays.py` - Soma elementos de dois arrays diferentes (índice 0 com índice 0, assim por diante) e exibe o resultado das somas.
 
 ## Como Usar
 
