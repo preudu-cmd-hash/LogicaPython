@@ -1,3 +1,6 @@
+"""Escreva um programa que declare uma matriz 4x4 de números inteiros. O usuário deve preencher todos os elementos da matriz e, ao
+final, o programa deve exibi-la no console no formato de tabela, com linhas e colunas organizadas."""
+
 tabela = []
 
 for i in range(1, 17):

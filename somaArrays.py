@@ -1,3 +1,6 @@
+"""Escreva um programa que declare duas matrizes de tamanho 2x2. O usuário deve preencher as duas matrizes com números inteiros, e o
+programa deve criar uma terceira matriz que seja a soma das duas primeiras, elemento por elemento, exibindo o resultado ao final."""
+
 numbers1 = []
 numbers2 = []
 
